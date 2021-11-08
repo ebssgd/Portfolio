@@ -19,19 +19,29 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:314-343-3432">314-343-3432</LinkItem>
+          <LinkTitle>Linkedin</LinkTitle>
+          <LinkItem
+            href="https://www.linkedin.com/in/bryan-ebert-37458356/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Find me here
+          </LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:contact@jsmastery.com">
-            contact@jsmastery.com
+          <LinkItem
+            href="mailto:contact@jsmastery.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            contact email goes here
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Thanks for stopping by!</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://google.com">
@@ -39,9 +49,6 @@ const Footer = () => {
           </SocialIcons>
           <SocialIcons href="https://google.com">
             <AiFillLinkedin size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://google.com">
-            <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>

@@ -30,8 +30,10 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js
+            Experience with: <br />
+            React.js <br />
+            JavaScript <br />
+            HTML / CSS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -42,8 +44,11 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Experience with: <br />
+            Node <br />
+            Express <br />
+            Mongoose / MongoDB <br />
+            Firebase
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -52,10 +57,13 @@ const Technologies = () => (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Other</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            Experience with: <br />
+            Handlebars.js <br />
+            Mocha / Chai <br />
+            bcrypt <br />
+            REST APIs
           </ListParagraph>
         </ListContainer>
       </ListItem>
