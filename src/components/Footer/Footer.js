@@ -25,13 +25,13 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Find me here
+            Find me on Linkedin
           </LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem
-            href="mailto:contact@jsmastery.com"
+            href="google.com" //site email goes here
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -44,10 +44,18 @@ const Footer = () => {
           <Slogan>Thanks for stopping by!</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://google.com">
+          <SocialIcons
+            href="https://github.com/ebssgd?tab=repositories"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons
+            href="https://www.linkedin.com/in/bryan-ebert-37458356/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
         </SocialContainer>

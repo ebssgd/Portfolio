@@ -43,13 +43,15 @@ const Projects = () => (
               </TagList>
             </div>
             <UtilityList>
-              <ExternalLinks
-                href={p.visit}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Site
-              </ExternalLinks>
+              {p.visit && (
+                <ExternalLinks
+                  href={p.visit}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Site
+                </ExternalLinks>
+              )}
               <ExternalLinks
                 href={p.code}
                 target="_blank"

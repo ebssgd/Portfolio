@@ -1,5 +1,5 @@
 import React from "react";
-import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+import { DiReact, DiStackoverflow, DiMongodb } from "react-icons/di";
 import {
   Section,
   SectionDivider,
@@ -39,7 +39,7 @@ const Technologies = () => (
       </ListItem>
       <ListItem>
         <picture>
-          <DiFirebase size="3rem" />
+          <DiMongodb size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
@@ -54,7 +54,7 @@ const Technologies = () => (
       </ListItem>
       <ListItem>
         <picture>
-          <DiZend size="3rem" />
+          <DiStackoverflow size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Other</ListTitle>

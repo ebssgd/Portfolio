@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Star Wars Blog",
     description:
-      "The 'final project' for the full stack boot camp I was enrolled in, this blog was created using all the MERN stack skills I developed. Utilizing React, I focused on a subject matter I was already familiar with to ensure my time was spent on the actual coding. Every aspect of the MERN stack was utilized in this site's creation, MongoDB is where the data is stored, Express sets up the back end, Reach is the font end, and Node pulls it together.",
+      "A fully functional CRUD app, I created this as a final project for my MERN stack certification. MongoDB stores the data, Express sets up the back end, and React handles the front. This app truly uses every aspect of the MERN stack. ",
     image: "/images/StarWars.jpg",
     tags: ["React", "JavaScript"],
     code: "https://github.com/ebssgd/finalProject",
