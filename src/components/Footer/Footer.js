@@ -31,11 +31,11 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem
-            href="google.com" //site email goes here
+            href="mailto:Bryan@bryanebert.com" //site email goes here
             target="_blank"
             rel="noopener noreferrer"
           >
-            contact email goes here
+            Bryan@bryanebert.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
