@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/portfolio.png",
     tags: ["JavaScript", "React", "Node", "Next.js"],
     code: "https://github.com/ebssgd/Portfolio",
-    visit: "https://google.com", //Put my site here: bryanebert.com
+    visit: "https://bryanebert.com", //Put my site here: bryanebert.com
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     description:
       "A fully functional CRUD app, I created this as a final project for my MERN stack certification. MongoDB stores the data, Express sets up the back end, and React handles the front. This app truly uses every aspect of the MERN stack. ",
     image: "/images/StarWars.jpg",
-    tags: ["React", "JavaScript"],
+    tags: ["React", "JavaScript, MongoDB, Express, Node"],
     code: "https://github.com/ebssgd/finalProject",
     id: 1,
   },
