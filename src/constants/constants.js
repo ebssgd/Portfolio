@@ -14,7 +14,7 @@ export const projects = [
     description:
       "A fully functional CRUD app, I created this as a final project for my MERN stack certification. MongoDB stores the data, Express sets up the back end, and React handles the front. This app truly uses every aspect of the MERN stack. ",
     image: "/images/StarWars.jpg",
-    tags: ["React", "JavaScript, MongoDB, Express, Node"],
+    tags: ["React", "JavaScript", "MongoDB", "Express", "Node"],
     code: "https://github.com/ebssgd/finalProject",
     id: 1,
   },

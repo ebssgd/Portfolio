@@ -69,8 +69,8 @@ const Timeline = () => {
       <SectionText>
         I started learning about coding back in high school. I started really
         putting effort into it a few years ago. I enrolled in a bootcamp for
-        full stack development at the end of 2020 recently graduated. I look
-        forward to a career in web development.
+        full stack (MERN) development at the end of 2020 recently graduated. I
+        am looking forward to a career in web development.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
