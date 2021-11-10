@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/portfolio.png",
     tags: ["JavaScript", "React", "Node", "Next.js"],
     code: "https://github.com/ebssgd/Portfolio",
-    visit: "https://bryanebert.com", //Put my site here: bryanebert.com
+    visit: "https://bryanebert.com",
     id: 0,
   },
   {
