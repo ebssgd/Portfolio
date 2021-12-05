@@ -18,6 +18,15 @@ export const projects = [
     code: "https://github.com/ebssgd/finalProject",
     id: 1,
   },
+  {
+    title: "Bootstrap Landing Page",
+    description:
+      "A simple landing page created to showcase the type of pages I can create. Also, this is the first time I have utilized Bootstrap for the maun construction of a project.",
+    image: "/images/pexels-anthony-158834.jpg",
+    tags: ["Bootstrap", "HTML", "CSS"],
+    code: "https://github.com/ebssgd/landingPage",
+    id: 2,
+  },
 ];
 
 export const TimeLineData = [
